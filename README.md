@@ -1,2 +1,2 @@
-# chronic-kidney-disease
-chronic kidney disease-Classifiction
+# chronic-kidney-disease - Classification
+chronic kidney disease-Classification
