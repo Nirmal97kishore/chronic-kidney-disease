@@ -1,2 +1,2 @@
 # chronic-kidney-disease
-chronic kidney disease-kaggle dataset(ML)
+chronic kidney disease-Classifiction
